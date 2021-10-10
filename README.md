@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghadier
+- 👋 Hi, I’m @Ghadier Alenezi
 - 👀 I’m interested in Data Science & Programming
 - 🌱 Now I'm a student at Tuwaiq Academy 
 - 💞️ I’m recently graduated from Udacity in Programming for Data Science with Python By Misk 🤍
